@@ -1,0 +1,882 @@
+[
+	{
+		"id": "http://zotero.org/groups/3431/items/W32DLE9P",
+		"type": "article-journal",
+		"abstract": "Art historians have traditionally used physical light boxes to prepare exhibits or curate collections. On a light box, they can place slides or printed images, move the images around at will, group them as desired, and visual-ly compare them. The transition to digital images has rendered this workflow obsolete. Now, art historians lack well-designed, unified interactive software tools that effectively support the operations they perform with physi-cal light boxes. To address this problem, we designed ARIES (ARt Image Exploration Space), an interactive image manipulation system that enables the exploration and organization of fine digital art. The system allows images to be compared in multiple ways, offering dynamic overlays analogous to a physical light box, and sup-porting advanced image comparisons and feature-matching functions, available through computational image processing. We demonstrate the effectiveness of our system to support art historians tasks through real use cases. © 1981-2012 IEEE.",
+		"container-title": "IEEE Computer Graphics and Applications",
+		"DOI": "10.1109/MCG.2017.377152546",
+		"ISSN": "02721716",
+		"issue": "1",
+		"language": "English",
+		"note": "publisher: IEEE Computer Society\ntype: Article\nPMID: 28991735",
+		"page": "91 – 108",
+		"title": "ARIES: Enabling visual exploration and organization of art image collections",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031794586&doi=10.1109%2fMCG.2017.377152546&partnerID=40&md5=82f8ffa339e4df6634aec750ab34d60e",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Crissaff",
+				"given": "Lhaylla"
+			},
+			{
+				"family": "Wood Ruby",
+				"given": "Louisa"
+			},
+			{
+				"family": "Deutch",
+				"given": "Samantha"
+			},
+			{
+				"family": "Dubois",
+				"given": "R. Luke"
+			},
+			{
+				"family": "Fekete",
+				"given": "Jean-Daniel"
+			},
+			{
+				"family": "Freire",
+				"given": "Juliana"
+			},
+			{
+				"family": "Silva",
+				"given": "Claudio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/VUKTFF64",
+		"type": "article-journal",
+		"abstract": "The affordability of digital cameras, storage, processors and the advances made in these areas are encouraging people to continuously take hundreds of photos. However, managing the large number of photographs involves arduous tasks such as selecting good quality photos and classifying and labeling each photo. Generally, users put their photos into certain user-designated folders on their local PCs without considering any classified information. One of the main problems related to this management method is that users do not systematically create their photo folders because they are careless and apathetic. This practice results in confusion when the users want to find their photos. One method to overcome this problem is to construct a central photo management system that can manage many photos on the user’s local PC. This paper proposes an integrated photo management system coupled with a database on the web, which provides users with an automated photo clustering and visualization function that allows photo overlaps. The proposed system provides spatial clustering for Nearly Identical Photos, and it places photos with overlaps to improve space efficiency for the user. This system also provides users with a CUDA version of Depth of Field evaluation and blur estimation functions. In order to evaluate our system, we conducted two quantitative experiments relating to space efficiency and clustering correctness. First, we investigate the placed photo areas of ACDSee (grid layout) and our system to evaluate how much screen space is saved by nearly identical photos overlapping. Second, we also calculate the precision and recall of our system and Cooper’s with regard to user-classified photo sets. © Springer Science+Business Media, LLC 2012.",
+		"container-title": "Multimedia Tools and Applications",
+		"DOI": "10.1007/s11042-012-1160-7",
+		"ISSN": "13807501",
+		"issue": "2",
+		"language": "English",
+		"note": "publisher: Kluwer Academic Publishers\ntype: Article",
+		"page": "1011 – 1027",
+		"title": "A summarized photo visualization system with maximal clique finding algorithm",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84916943762&doi=10.1007%2fs11042-012-1160-7&partnerID=40&md5=17d5321c320de294dacdf6232e066688",
+		"volume": "73",
+		"author": [
+			{
+				"family": "Ryu",
+				"given": "Dong-Sung"
+			},
+			{
+				"family": "Cho",
+				"given": "Hwan-Gue"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/PRYCUTRS",
+		"type": "article-journal",
+		"abstract": "In this paper, we introduce 11-20 (Image Insight 2020), a multimedia analytics approach for analytic categorization of image collections. Advanced visualizations for image collections exist, but they need tight integration with a machine model to support the task of analytic categorization. Directly employing computer vision and interactive learning techniques gravitates towards search. Analytic categorization, however, is not machine classification (the difference between the two is called the pragmatic gap): a human adds/redefines/deletes categories of relevance on the fly to build insight, whereas the machine classifier is rigid and non-adaptive. Analytic categorization that truly brings the user to insight requires a flexible machine model that allows dynamic sliding on the exploration-search axis, as well as semantic interactions: a human thinks about image data mostly in semantic terms. 11-20 brings three major contributions to multimedia analytics on image collections and towards closing the pragmatic gap. Firstly, a new machine model that closely follows the user's interactions and dynamically models her categories of relevance. II-20's machine model, in addition to matching and exceeding the state of the art's ability to produce relevant suggestions, allows the user to dynamically slide on the exploration-search axis without any additional input from her side. Secondly, the dynamic, 1-image-at-a-time Tetris metaphor that synergizes with the model. It allows a well-trained model to analyze the collection by itself with minimal interaction from the user and complements the classic grid metaphor. Thirdly, the fast-forward interaction, allowing the user to harness the model to quickly expand ('fast-forward') the categories of relevance, expands the multimedia analytics semantic interaction dictionary. Automated experiments show that II-20's machine model outperforms the existing state of the art and also demonstrate the Tetris metaphor's analytic quality. User studies further confirm that II-20 is an intuitive, efficient, and effective multimedia analytics tool. © 2020 IEEE.",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2020.3030383",
+		"ISSN": "10772626",
+		"issue": "2",
+		"language": "English",
+		"note": "publisher: IEEE Computer Society\ntype: Article\nPMID: 33074815",
+		"page": "422 – 431",
+		"title": "II-20: Intelligent and pragmatic analytic categorization of image collections",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85100415947&doi=10.1109%2fTVCG.2020.3030383&partnerID=40&md5=e2026d9ecd84238fa9f307f5e3ca7a2f",
+		"volume": "27",
+		"author": [
+			{
+				"family": "Zahalka",
+				"given": "Jan"
+			},
+			{
+				"family": "Worring",
+				"given": "Marcel"
+			},
+			{
+				"family": "Van Wijk",
+				"given": "Jarke J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/FF2IHK9E",
+		"type": "article-journal",
+		"abstract": "Effective techniques for organizing and visualizing large image collections are in growing demand as visual search gets increasingly popular. Targeting an online astronomy archive with thousands of images, we present our solution for image search and clustering based on the evaluation of image similarity using both visual and textual information. Time-consuming image similarity computation is accelerated using graphics processing unit. To lay out images, we introduce iMap, a treemap-based representation for visualizing and navigating image search and clustering results. iMap not only makes effective use of available display area to arrange images but also maintains stable update when images are inserted or removed during the query. We also develop an embedded visualization that integrates image tags for in-place search refinement. To show the effectiveness of our approach, we demonstrate experimental results, compare our iMap layout with a force-directed layout, and conduct a comparative user study. As a potential tool for astronomy education and outreach, we deploy our iMap to a large tiled display of nearly 50 million pixels. © The Author(s) 2013.",
+		"container-title": "Information Visualization",
+		"DOI": "10.1177/1473871613498519",
+		"ISSN": "14738716",
+		"issue": "3",
+		"language": "English",
+		"note": "publisher: SAGE Publications Ltd\ntype: Article",
+		"page": "183 – 203",
+		"title": "Similarity-based visualization of large image collections",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84943253662&doi=10.1177%2f1473871613498519&partnerID=40&md5=0e1c5f3264c385041d825ac554db6d81",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Chaoli"
+			},
+			{
+				"family": "Reese",
+				"given": "John P."
+			},
+			{
+				"family": "Zhang",
+				"given": "Huan"
+			},
+			{
+				"family": "Tao",
+				"given": "Jun"
+			},
+			{
+				"family": "Gu",
+				"given": "Yi"
+			},
+			{
+				"family": "Ma",
+				"given": "Jun"
+			},
+			{
+				"family": "Nemiroff",
+				"given": "Robert J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/T9UJYMHW",
+		"type": "paper-conference",
+		"abstract": "Nowadays stock photo agencies often have millions of images. Nonstop viewing of 20 million images at a speed of 10 images per second would take more than three weeks. This demonstrates the impossibility to inspect all images and the difficulty to get an overview of the entire collection. Although there has been a lot of effort to improve visual image search, there is little research and support for visual image exploration. Typically, users start \"exploring\" an image collection with a keyword search or an example image for a similarity search. Both searches lead to long unstructured lists of result images. In earlier publications, we introduced the idea of graph-based image navigation and proposed an efficient algorithm for building hierarchical image similarity graphs for dynamically changing image collections. In this demo we showcase real-time visual exploration of millions of images with a standard web browser. Subsets of images are successively retrieved from the graph and displayed as a visually sorted 2D image map, which can be zoomed and dragged to explore related concepts. Maintaining the positions of previously shown images creates the impression of an \"endless map\". This approach allows an easy visual image-based navigation, while preserving the complex image relationships of the graph. © 2019 Association for Computing Machinery.",
+		"container-title": "MM 2019 - Proceedings of the 27th ACM International Conference on Multimedia",
+		"DOI": "10.1145/3343031.3350599",
+		"ISBN": "978-1-4503-6889-6",
+		"language": "English",
+		"note": "type: Conference paper",
+		"page": "2202 – 2204",
+		"publisher": "Association for Computing Machinery, Inc",
+		"title": "Real-time visual navigation in huge image sets using similarity graphs",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074871490&doi=10.1145%2f3343031.3350599&partnerID=40&md5=3b5f194213bdd7c9dfaee6ce946256d5",
+		"author": [
+			{
+				"family": "Barthel",
+				"given": "Kai Uwe"
+			},
+			{
+				"family": "Hezel",
+				"given": "Nico"
+			},
+			{
+				"family": "Schall",
+				"given": "Konstantin"
+			},
+			{
+				"family": "Jung",
+				"given": "Klaus"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/HJ264SP4",
+		"type": "paper-conference",
+		"abstract": "The selection of canonical images that best represent a scene type is very important for efficiently visualizing search results and re-ranking them. The canonical images can be obtained using various aspects including viewpoint, visual features, and semantics. Here, we propose the selection of canonical images based on human affects. The proposed method is performed using three steps: extract the affective features from the input image, cluster images in the affective space and rank the clusters, and find representative images within each cluster. First, the probabilistic affective model is used to transform the images into the affective space. Thereafter, the images are clustered in the affective space. Then, the selected canonical images are representative and distinctive from each other. Thus, we define three prominent properties that an informative summary should satisfy: coverage, affective coherence, and distinctiveness. Based on these, cluster ranking is performed. Finally, the representative images for each cluster are selected, all of which are displayed as canonical images to the user. Experiments using web image databases demonstrate are not only representative but also exhibit a diverse set of views with minimal redundancy. © 2015 IEEE.",
+		"container-title": "Proceedings of 2015 IEEE 14th International Conference on Cognitive Informatics and Cognitive Computing, ICCI*CC 2015",
+		"DOI": "10.1109/ICCI-CC.2015.7259411",
+		"ISBN": "978-1-4673-7289-3",
+		"language": "English",
+		"note": "type: Conference paper",
+		"page": "360 – 367",
+		"publisher": "Institute of Electrical and Electronics Engineers Inc.",
+		"title": "Generating summaries for photographic images based on human affects",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84960931377&doi=10.1109%2fICCI-CC.2015.7259411&partnerID=40&md5=f1341e351a2e5f86558abc2ebbe15b43",
+		"author": [
+			{
+				"family": "Kim",
+				"given": "Eun Yi"
+			},
+			{
+				"family": "Ko",
+				"given": "Eunjeong"
+			}
+		],
+		"editor": [
+			{
+				"family": "P",
+				"given": "Chen"
+			},
+			{
+				"family": "L.A",
+				"given": "Zadeh"
+			},
+			{
+				"family": "N",
+				"given": "Ge"
+			},
+			{
+				"family": "Y",
+				"given": "Wang"
+			},
+			{
+				"family": "X",
+				"given": "Tao"
+			},
+			{
+				"family": "J",
+				"given": "Lu"
+			},
+			{
+				"family": "N",
+				"given": "Howard"
+			},
+			{
+				"family": "B",
+				"given": "Zhang"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/25TPE85J",
+		"type": "paper-conference",
+		"abstract": "As an effective technology for navigating a large number of images, image summarization is becoming a promising task with the rapid development of image sharing sites and social networks. Most existing summarization approaches use the visual-based features for image representation without considering tag information. In this paper, we propose a novel framework, named JOINT, which employs both image content and tag information to summarize images. Our model generates the summary images which can best reconstruct the original collection. Based on the assumption that an image with representative content should also have typical tags, we introduce a similarity-inducing regularizer to our model. Furthermore, we impose the lasso penalty on the objective function to yield a concise summary set. Extensive experiments demonstrate our model outperforms the state-of-the-art approaches. Copyright © 2014, Association for the Advancement of Artificial Intelligence.",
+		"container-title": "Proceedings of the National Conference on Artificial Intelligence",
+		"ISBN": "978-1-57735-677-6",
+		"language": "English",
+		"note": "type: Conference paper",
+		"page": "215 – 221",
+		"publisher": "AI Access Foundation",
+		"title": "A joint optimization model for image summarization based on image content and tags",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908150528&partnerID=40&md5=e7c18afeafcf24ed406828a310aa7a13",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Yu",
+				"given": "Hongliang"
+			},
+			{
+				"family": "Deng",
+				"given": "Zhi-Hong"
+			},
+			{
+				"family": "Yang",
+				"given": "Yunlun"
+			},
+			{
+				"family": "Xiong",
+				"given": "Tao"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/C5YEJ2YL",
+		"type": "paper-conference",
+		"abstract": "Exploring and annotating collections of images without meta-data is a complex task which requires convenient ways of presenting datasets to a user. Visual analytics and information visualization can help users by providing interfaces, and in this paper, we present an open source application that allows users from any domain to use feature-based clustering of large image collections to perform explorative browsing and annotation. For this, we use various image feature extraction mechanisms, different unsupervised clustering algorithms and hierarchical image collection visualization. The performance of the presented open source software allows users to process and display thousands of images at the same time by utilizing heterogeneous resources such as GPUs and different optimization techniques. © 2017 Copyright held by the owner/author(s). ACM.",
+		"container-title": "ICMR 2017 - Proceedings of the 2017 ACM International Conference on Multimedia Retrieval",
+		"DOI": "10.1145/3078971.3079018",
+		"ISBN": "978-1-4503-4701-3",
+		"language": "English",
+		"note": "type: Conference paper",
+		"page": "112 – 116",
+		"publisher": "Association for Computing Machinery, Inc",
+		"title": "ClusterTag: Interactive visualization, clustering and tagging tool for big image collections",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85021790565&doi=10.1145%2f3078971.3079018&partnerID=40&md5=a40e3cee0ea97511fcf7d884d855ec6a",
+		"author": [
+			{
+				"family": "Pogorelov",
+				"given": "Konstantin"
+			},
+			{
+				"family": "Riegler",
+				"given": "Michael"
+			},
+			{
+				"family": "Halvorsen",
+				"given": "Pål"
+			},
+			{
+				"family": "Griwodz",
+				"given": "Carsten"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/IA8E5FHA",
+		"type": "paper-conference",
+		"abstract": "Most existing tag-based social image search engines present search results as a ranked list of images, which cannot be consumed by users in a natural and intuitive manner. In this paper, we present a novel concept-preserving image search results summarization algorithm named prism. prism exploits both visual features and tags of the search results to generate high quality summary, which not only breaks the results into visually and semantically coherent clusters but it also maximizes the coverage of the summary w.r.t the original search results. It first constructs a visual similarity graph where the nodes are images in the search results and the edges represent visual similarities between pairs of images. This graph is optimally decomposed and compressed into a set of concept-preserving subgraphs based on a set of summarization objectives. Images in a concept-preserving subgraph are visually and semantically cohesive and are described by a minimal set of tags or concepts. Lastly, one or more exemplar images from each subgraph is selected to form the exemplar summary of the result set. Through empirical study, we demonstrate the effectiveness of prism against state-of-the-art image summarization and clustering algorithms. Copyright 2014 ACM.",
+		"container-title": "SIGIR 2014 - Proceedings of the 37th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+		"DOI": "10.1145/2600428.2609586",
+		"ISBN": "978-1-4503-2259-1",
+		"language": "English",
+		"note": "type: Conference paper",
+		"page": "737 – 746",
+		"publisher": "Association for Computing Machinery",
+		"title": "PRISM: Concept-preserving social image search results summarization",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84904564432&doi=10.1145%2f2600428.2609586&partnerID=40&md5=a064e5f4eaf72ce96d318d80d6f890ed",
+		"author": [
+			{
+				"family": "Seah",
+				"given": "Boon-Siew"
+			},
+			{
+				"family": "Bhowmick",
+				"given": "Sourav S."
+			},
+			{
+				"family": "Sun",
+				"given": "Aixin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/HPDC5VZ6",
+		"type": "article-journal",
+		"abstract": "Summarization is a challenging task that aims to generate a summary by grasping common information of a given set of information. Text summarization is a popular task of determining the topic or generating a textual summary of documents. In contrast, image summarization aims to find a representative summary of a collection of images. However, current methods are still restricted to generating a visual scene graph, tags, and noun phrases, but cannot generate a fitting textual description of an image collection. Thus, we introduce a novel framework for generating a summarized caption of an image collection. Since scene graph generation shows advancement in describing objects and their relationships on a single image, we use it in the proposed method to generate a scene graph for each image in an image collection. Then, we find common objects and their relationships from all scene graphs and represent them as a summarized scene graph. For this, we merge all scene graphs and select part of it by estimating the most common objects and relationships. Finally, the summarized scene graph is input into a captioning model. In addition, we introduce a technique to generalize specific words in the final caption into common concept words incorporating external knowledge. To evaluate the proposed method, we construct a dataset for this task by extending the annotation of the MS-COCO dataset using an image retrieval method. The evaluation of the proposed method on this dataset showed promising performance compared to text summarization-based methods. © ; 2023 The Authors.",
+		"container-title": "IEEE Access",
+		"DOI": "10.1109/ACCESS.2023.3332098",
+		"ISSN": "21693536",
+		"language": "English",
+		"note": "publisher: Institute of Electrical and Electronics Engineers Inc.\ntype: Article",
+		"page": "128245 – 128260",
+		"title": "An Approach to Generate a Caption for an Image Collection Using Scene Graph Generation",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85177065586&doi=10.1109%2fACCESS.2023.3332098&partnerID=40&md5=5a49f0bd442bd9250d77ad742ad04f43",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Phueaksri",
+				"given": "Itthisak"
+			},
+			{
+				"family": "Kastner",
+				"given": "Marc A."
+			},
+			{
+				"family": "Kawanishi",
+				"given": "Yasutomo"
+			},
+			{
+				"family": "Komamizu",
+				"given": "Takahiro"
+			},
+			{
+				"family": "Ide",
+				"given": "Ichiro"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/V7VMZ3FL",
+		"type": "paper-conference",
+		"abstract": "This paper presents two different strategies for visualizing multimodal image collections, which are based on a representation strategy that fuses text and visual content in the same latent space. This latent space allows to find semantic groups of images, which are used to select image prototypes to build a semantic visualization. The first strategy is a graph-based visualization in which edges represent image similarities and vertices represent images. The second is a multimodal visualization in which a set of image prototypes surround a semantic tag cloud. Thus, we built a system prototype in order to evaluate the strategies. Results show that the propose strategy is promising and it could be used in a real image exploration system to improve the image collection exploration process. © 2013 IEEE.",
+		"container-title": "Symposium of Signals, Images and Artificial Vision - 2013, STSIVA 2013",
+		"DOI": "10.1109/STSIVA.2013.6644945",
+		"ISBN": "978-1-4799-1121-9",
+		"language": "English",
+		"note": "type: Conference paper",
+		"title": "Visualizing multimodal image collections",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84891102120&doi=10.1109%2fSTSIVA.2013.6644945&partnerID=40&md5=bcc2753dabede9684990e6961564fdbe",
+		"author": [
+			{
+				"family": "Chavarro",
+				"given": "Anyela"
+			},
+			{
+				"family": "Camargo",
+				"given": "Jorge"
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Fabio A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/6N94DJ5E",
+		"type": "article-journal",
+		"abstract": "This paper presents a multimodal latent topic analysis method for the construction of image collection summaries. The method automatically selects a set of prototypical images from a large set of retrieved images for a given query. We define an image collection summary as a subset of images from a collection, which is visually and semantically representative. To build such a summary we propose MICS (Multimodal Image Collection Summarization), a method that combines textual and visual modalities in a common latent space, which allows to find a subset of images from which the whole collection can be reconstructed. Experiments were conducted on two collections of tagged images demonstrating the ability of the approach to build summaries with representative visual and semantic contents. The method was evaluated using objective measures, reconstruction error and diversity of the summary, showing competitive results when compared to other summarization approaches. © 2015 Elsevier Inc. All rights reserved.",
+		"container-title": "Information Sciences",
+		"DOI": "10.1016/j.ins.2015.08.044",
+		"ISSN": "00200255",
+		"language": "English",
+		"note": "publisher: Elsevier Inc.\ntype: Article",
+		"page": "270 – 287",
+		"title": "Multimodal latent topic analysis for image collection summarization",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945569039&doi=10.1016%2fj.ins.2015.08.044&partnerID=40&md5=297d74dec45154bf645bc34f0cf747f0",
+		"volume": "328",
+		"author": [
+			{
+				"family": "Camargo",
+				"given": "Jorge E."
+			},
+			{
+				"family": "González",
+				"given": "Fabio A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/SXEI9VD3",
+		"type": "article-journal",
+		"abstract": "Most content summarization models from the field of natural language processing summarize the textual contents of a collection of documents or paragraphs. In contrast, summarizing the visual contents of a collection of images has not been researched to this extent. In this paper, we present a framework for summarizing the visual contents of an image collection. The key idea is to collect the scene graphs for all images in the image collection, create a combined representation, and then generate a visually summarizing caption using a scene-graph captioning model. Note that this aims to summarize common contents across all images in a single caption rather than describing each image individually. After aggregating all the scene graphs of an image collection into a single scene graph, we normalize it by using an additional concept generalization component. This component selects the common concept in each sub-graph with ConceptNet based on word embedding techniques. Lastly, we refine the captioning results by replacing a specific noun phrase with a common concept from the concept generalization component to improve the captioning results. We construct a dataset for this task based on the MS-COCO dataset using techniques from image classification and image-caption retrieval. An evaluation of the proposed method on this dataset shows promising performance. © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.",
+		"container-title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+		"DOI": "10.1007/978-3-031-27077-2_14",
+		"ISSN": "03029743",
+		"language": "English",
+		"note": "ISBN: 978-303127076-5\npublisher: Springer Science and Business Media Deutschland GmbH\ntype: Conference paper",
+		"page": "178 – 190",
+		"title": "Towards Captioning an Image Collection from a Combined Scene Graph Representation Approach",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85152572570&doi=10.1007%2f978-3-031-27077-2_14&partnerID=40&md5=5afa4591db04186b2d2490e660588a42",
+		"volume": "13833 LNCS",
+		"author": [
+			{
+				"family": "Phueaksri",
+				"given": "Itthisak"
+			},
+			{
+				"family": "Kastner",
+				"given": "Marc A."
+			},
+			{
+				"family": "Kawanishi",
+				"given": "Yasutomo"
+			},
+			{
+				"family": "Komamizu",
+				"given": "Takahiro"
+			},
+			{
+				"family": "Ide",
+				"given": "Ichiro"
+			}
+		],
+		"editor": [
+			{
+				"family": "D.-T",
+				"given": "Dang-Nguyen"
+			},
+			{
+				"family": "C",
+				"given": "Gurrin"
+			},
+			{
+				"family": "A.F",
+				"given": "Smeaton"
+			},
+			{
+				"family": "M",
+				"given": "Larson"
+			},
+			{
+				"family": "S",
+				"given": "Rudinac"
+			},
+			{
+				"family": "M.-S",
+				"given": "Dao"
+			},
+			{
+				"family": "C",
+				"given": "Trattner"
+			},
+			{
+				"family": "P",
+				"given": "Chen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/CMMBXLJF",
+		"type": "article-journal",
+		"abstract": "Making sense of ever-growing amount of visual data available on the web is difficult, especially when considered in an unsupervised manner. As a step towards this goal, this study tackles a relatively less explored topic of generating structured summaries of large photo collections. Our framework relies on the notion of a story graph which captures the main narratives in the data and their relationships based on their visual, textual and spatio-temporal features. Its output is a directed graph with a set of possibly intersecting paths. Our proposed approach identifies coherent visual storylines and exploits sub-modularity to select a subset of these lines which covers the general narrative at most. Our experimental analysis reveals that extracted story graphs allow for obtaining better results when utilized as priors for photo album summarization. Moreover, our user studies show that our approach delivers better performance on next image prediction and coverage tasks than the state-of-the-art. © 2020",
+		"container-title": "Signal Processing: Image Communication",
+		"DOI": "10.1016/j.image.2020.116033",
+		"ISSN": "09235965",
+		"language": "English",
+		"note": "publisher: Elsevier B.V.\ntype: Article",
+		"title": "Generating visual story graphs with application to photo album summarization",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092890679&doi=10.1016%2fj.image.2020.116033&partnerID=40&md5=39504f6af43037cedf828ac1433b3d41",
+		"volume": "90",
+		"author": [
+			{
+				"family": "Celikkale",
+				"given": "Bora"
+			},
+			{
+				"family": "Erdogan",
+				"given": "Goksu"
+			},
+			{
+				"family": "Erdem",
+				"given": "Aykut"
+			},
+			{
+				"family": "Erdem",
+				"given": "Erkut"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/PECZIRJ3",
+		"type": "article-journal",
+		"abstract": "In this paper we propose a novel approach to selecting images suitable for inclusion in the visual summaries. The approach is grounded in insights about how people summarize image collections. We utilize the Amazon Mechanical Turk crowdsourcing platform to obtain a large number of manually created visual summaries as well as information about criteria for image inclusion in the summary. Based on these large-scale user tests, we propose an automatic image selection approach, which jointly utilizes the analysis of image content, context, popularity, visual aesthetic appeal as well as the sentiment derived from the comments posted on the images. In our approach we do not describe images based on their properties only, but also in the context of semantically related images, which improves robustness and effectively enables propagation of sentiment, aesthetic appeal as well as various inherent attributes associated with a particular group of images. We discuss the phenomenon of a low inter-user agreement, which makes an automatic evaluation of visual summaries a challenging task and propose a solution inspired by the text summarization and machine translation communities. The experiments performed on a collection of geo-referenced Flickr images demonstrate the effectiveness of our image selection approach. © 2013 IEEE.",
+		"container-title": "IEEE Transactions on Multimedia",
+		"DOI": "10.1109/TMM.2013.2261481",
+		"ISSN": "15209210",
+		"issue": "6",
+		"language": "English",
+		"note": "type: Article",
+		"page": "1231 – 1243",
+		"title": "Learning crowdsourced user preferences for visual summarization of image collections",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84884543863&doi=10.1109%2fTMM.2013.2261481&partnerID=40&md5=aa51df7c191a4d5bcaf7503f9a897b01",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Rudinac",
+				"given": "Stevan"
+			},
+			{
+				"family": "Larson",
+				"given": "Martha"
+			},
+			{
+				"family": "Hanjalic",
+				"given": "Alan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/5TRRFRRV",
+		"type": "article-journal",
+		"abstract": "While search engines have been a successful tool to search text information, image search systems still face challenges. The keyword-based query paradigm used to search in image collection systems, which has been successful in text retrieval, may not be useful in scenarios where the user does not have the precise way to express a visual query. Image collection exploration is a new paradigm where users interact with the image collection to discover useful and relevant pictures. This paper proposes a framework for the construction of an image collection exploration system based on kernel methods, which offers a mathematically strong basis to address each stage of an image collection exploration system: image representation, summarization, visualization and interaction. In particular, our approach emphasizes a semantic representation of images using kernel functions, which can be seamlessly harnessed across all system components. Experiments were conducted with real users to verify the effectiveness and efficiency of the proposed strategy. © 2012 Elsevier Ltd.",
+		"container-title": "Journal of Visual Languages and Computing",
+		"DOI": "10.1016/j.jvlc.2012.10.008",
+		"ISSN": "1045926X",
+		"issue": "1",
+		"language": "English",
+		"note": "type: Article",
+		"page": "53 – 67",
+		"title": "A kernel-based framework for image collection exploration",
+		"URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84870864463&doi=10.1016%2fj.jvlc.2012.10.008&partnerID=40&md5=ba70e270d695f2040ced9389f44a55c6",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Camargo",
+				"given": "Jorge E."
+			},
+			{
+				"family": "Caicedo",
+				"given": "Juan C."
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Fabio A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/EEELP2V2",
+		"type": "article-journal",
+		"abstract": "Digital image collections contain a wealth of information, which for instance can be used to trace illegal activities and investigate criminal networks. We present a method that enables analysts to reveal relations among people, based on the patterns in their collections. Similar temporal and spatial patterns can be found using a parameterized algorithm, visualization is used to choose the right parameters and to inspect the patterns found. The visualization shows relations between image properties: the person it belongs to, the concepts in the image, its time stamp and location. We demonstrate the method with image collections of 10, 000 people containing 460, 000 images in total.",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.13188",
+		"ISSN": "0167-7055, 1467-8659",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "295-304",
+		"source": "DOI.org (Crossref)",
+		"title": "Comparing Personal Image Collections with PICTuReVis",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1111/cgf.13188",
+		"volume": "36",
+		"author": [
+			{
+				"family": "Van Der Corput",
+				"given": "Paul"
+			},
+			{
+				"family": "Van Wijk",
+				"given": "Jarke J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/5YR9NTR2",
+		"type": "article-journal",
+		"abstract": "We present a method for the automatic creation of ﬁctional storybooks based on personal photographs. Unlike previous attempts that summarize such collections by picking salient or diverse photos, or creating personal literal narratives, we focus on the creation of ﬁctional stories. This provides new value to users, as well as an engaging way for people (especially children) to experience their own photographs. We use a graph model to represent an artist-generated story, where each node is a ‘frame’, akin to frames in comics or storyboards. A node is described by story elements, comprising actors, location, supporting objects and time. The edges in the graph encode connections between these elements and provide the discourse of the story. Based on this construction, we develop a constraint satisfaction algorithm for one-to-one assignment of nodes to photographs. Once each node is assigned to a photograph, a visual depiction of the story can be generated in different styles using various templates. We show results of several ﬁctional visual stories created from different personal photo sets and in different styles.",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.13099",
+		"ISSN": "0167-7055, 1467-8659",
+		"issue": "1",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "19-31",
+		"source": "DOI.org (Crossref)",
+		"title": "Story Albums: Creating Fictional Stories From Personal Photograph Sets",
+		"title-short": "Story Albums",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1111/cgf.13099",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Radiano",
+				"given": "O."
+			},
+			{
+				"family": "Graber",
+				"given": "Y."
+			},
+			{
+				"family": "Mahler",
+				"given": "M."
+			},
+			{
+				"family": "Sigal",
+				"given": "L."
+			},
+			{
+				"family": "Shamir",
+				"given": "A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/UXVFXIU4",
+		"type": "article-journal",
+		"abstract": "For clear summary and efﬁcient search of images for album, which carries a story of life record, we propose a new approach for quickview of album in comic-like layout via quartet analysis. How to organize the images in album and in what way to display images in collage are two key problems for album quickview. For the ﬁrst problem, we take the idea of model organization method based on quartet analysis to construct categorization tree to organize the images; while for the second problem, we utilize the topological structure of categorization tree to decompose it into multiple groups of images and extract representative image from each group for subsequent collage. For the collage part, we choose comic-like layout to present collage because comic provides a concise way for storytelling and it has variablitiy in layout styles, which is suitable for album summary. Experiments demonstrate that our method could organize the images effectively and present images in collage with diverse styles as well.",
+		"container-title": "Pacific Graphics Short Papers",
+		"DOI": "10.2312/PGS.20141253",
+		"language": "en",
+		"note": "dimensions: 6 pages\nISBN: 9783905674736\npublisher: The Eurographics Association",
+		"page": "6 pages",
+		"source": "DOI.org (Datacite)",
+		"title": "Album Quickview in Comic-like Layout via Quartet Analysis",
+		"URL": "http://diglib.eg.org/handle/10.2312/pgs.20141253.061-066",
+		"author": [
+			{
+				"family": "Zheng",
+				"given": "Zhibin"
+			},
+			{
+				"family": "Zhang",
+				"given": "Yan"
+			},
+			{
+				"family": "Miao",
+				"given": "Zheng"
+			},
+			{
+				"family": "Sun",
+				"given": "Zhengxing"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/3431/items/P4DWR7LL",
+		"type": "article-journal",
+		"abstract": "Image collage is a very useful tool for visualizing an image collection. Most of the existing methods and commercial applications for generating image collages are designed on simple shapes, such as rectangular and circular layouts. This greatly limits the use of image collages in some artistic and creative settings. Although there are some methods that can generate irregularly-shaped image collages, they often suffer from severe image overlapping and excessive blank space. This prevents such methods from being effective information communication tools. In this paper, we present a shape slicing algorithm and an optimization scheme that can create image collages of arbitrary shapes in an informative and visually pleasing manner given an input shape and an image collection. To overcome the challenge of irregular shapes, we propose a novel algorithm, called Shape-Aware Slicing, which partitions the input shape into cells based on medial axis and binary slicing tree. Shape-Aware Slicing, which is designed specifically for irregular shapes, takes human perception and shape structure into account to generate visually pleasing partitions. Then, the layout is optimized by analyzing input images with the goal of maximizing the total salient regions of the images. To evaluate our method, we conduct extensive experiments and compare our results against previous work. The evaluations show that our proposed algorithm can efficiently arrange image collections on irregular shapes and create visually superior results than prior work and existing commercial tools.",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2023.3262039",
+		"ISSN": "1941-0506",
+		"note": "event-title: IEEE Transactions on Visualization and Computer Graphics",
+		"page": "1-13",
+		"source": "IEEE Xplore",
+		"title": "Image Collage on Arbitrary Shape via Shape-Aware Slicing and Optimization",
+		"URL": "https://ieeexplore.ieee.org/document/10081386",
+		"author": [
+			{
+				"family": "Wu",
+				"given": "Dong-Yi"
+			},
+			{
+				"family": "Le",
+				"given": "Thi-Ngoc-Hanh"
+			},
+			{
+				"family": "Yao",
+				"given": "Sheng-Yi"
+			},
+			{
+				"family": "Lin",
+				"given": "Yun-Chen"
+			},
+			{
+				"family": "Lee",
+				"given": "Tong-Yee"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	}
+]
