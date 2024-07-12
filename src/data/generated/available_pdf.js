@@ -1,1 +1,1 @@
-const availablePdf = [];
+const availablePdf = ["crissaff_aries_2018"];

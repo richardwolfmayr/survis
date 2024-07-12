@@ -71,7 +71,8 @@ def fill_keywords(bib_filename, keywords, json_data):
             if current_key in keywords:
                 new_keywords = ', '.join([f"{cat}:{tag}" for cat, tags in keywords[current_key].items() for tag in tags])
                 # Combine the existing and new keywords
-                combined_keywords = f"{new_keywords}, {existing_keywords}" if existing_keywords else new_keywords
+                # combined_keywords = f"{new_keywords}, {existing_keywords}" if existing_keywords else new_keywords
+                combined_keywords = new_keywords # ONLY new keywords, since I do not care about the existing ones right now
                 new_line = f'  keywords = {{{combined_keywords}}},\n'
                 new_bib_content.append(new_line)
             else:

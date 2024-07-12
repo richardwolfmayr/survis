@@ -6,7 +6,7 @@ const userDefinedTagCategories = {
 	"image representation": {
 		"description": ""
 	},
-	"summarization_design_factors": {
+	"summarization": {
 		"description": "Summarization_Design_Factors"
 	},
 	"summarizing entities": {
@@ -18,13 +18,10 @@ const userDefinedTagCategories = {
 	"goal": {
 		"description": ""
 	},
-	"interactions_toward_a_deeper_understanding": {
+	"interactions": {
 		"description": ""
 	},
 	"evaluation": {
 		"description": ""
-	},
-	"type": {
-		"description": "type of the paper"
 	},
 }
